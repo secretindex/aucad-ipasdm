@@ -24,7 +24,7 @@ const invalidStandard: InvalidDocuments = {
   "cr/60": `Comprovante de residência emitido a partir de Agosto de 2026;\nObs: Comprovante enviado foi emitido em MES. Favor, enviar um comprovante dentro do prazo acima`,
   "cr/n": "Comprovante de Residência atualizado (emitido a partir de Agosto/2026)",
   "cr/dsc": "Comprovante de residência atualizado;\nObs: Envie uma conta emitida a partir de Agosto de 2026",
-  "dr/n": `Preencha e assine a Declaração de Residência, requerida quando o comprovante possui nome de terceiro.`,
+  "dr/n": `Preencha e assine a Declaração de Residência conforme o modelo disponibilizado pelo IPASDM.`,
   "id/n": "Qualquer documento de identidade com CPF (RH, CNH ou Carteira de Conselhos de Classe)",
   "cns/n": "Certidão de Nascimento",
   "estc/nd": `Certidão de acordo com o estado civil:
@@ -37,7 +37,7 @@ Solteira - Certidão de nascimento`,
   "cav/n": "Certidão de casamento averbada",
   "un/n": "Declaração de União Estável/Convivência Marital com firma reconhecida em cartório",
   "lm/r/a":
-    "Laudo/Atestado médico em caso de invalidez (emitido a partir de agosto de 2026), o qual será retido no momento do censo",
+    "Laudo/Atestado médico em caso de invalidez (emitido a partir de agosto de 2026), o qual será retido no momento do censo pelo IPASDM, para fins de instrução e atualização cadastral",
   "crp/r/a":
     "Comprovante de Registro Profissional para os servidores que ocupem os cargos de Nutricionista, Odontólogo, Engenheiro Agrônomo, Administrador, Farmacêutico, Engenheiro Civil, Contador, Enfermeiro, Educador",
   "cnh/r/a": "CNH para ocupantes do cargo de Motorista",

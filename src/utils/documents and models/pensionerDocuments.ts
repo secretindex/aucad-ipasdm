@@ -26,7 +26,7 @@ const invalidPensioner: InvalidPensioner = {
   "cr/n": "Comprovante de Residência atualizado (emitido a partir de agosto/2026)",
   "cr/dsc":
     "Comprovante de residência emitido nos últimos 60 dias;\nObs: Envie uma conta emitida a partir de agosto de 2026",
-  "dr/n": `Preencha e assine a Declaração de Residência, requerida quando o comprovante possui nome de terceiro.`,
+  "dr/n": `Preencha e assine a Declaração de Residência conforme o modelo disponibilizado pelo IPASDM.`,
   "pis/18/n": "Enviar comprovante de cadastro no PIS/PASEP ou NIT",
   "dips/n": "Enviar declaração de Inacumulabilidade de Pensão",
   "idsf/n": "Documento de Identidade e CPF do ex-servidor (a) falecido(a)",
