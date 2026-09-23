@@ -5,7 +5,6 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import Help from "./pages/Help"
 import Contact from "./pages/Contact"
 
-import activesDocument from "./components/objects/ActivesObj"
 import pensionerObj from "./components/objects/PensionerObj"
 import inactiveDocuments from "./components/objects/InactiveObj"
 
