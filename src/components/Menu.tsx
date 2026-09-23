@@ -1,5 +1,5 @@
 import { Layout, Menu, Typography, Image } from "antd"
-import { QuestionCircleOutlined, ProfileOutlined, UserDeleteOutlined, UserOutlined } from "@ant-design/icons"
+import { QuestionCircleOutlined, ProfileOutlined, UserDeleteOutlined } from "@ant-design/icons"
 import { Link } from "react-router-dom"
 import AucadLogo from "../assets/aucad horizontal.svg"
 

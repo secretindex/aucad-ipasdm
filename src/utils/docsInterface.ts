@@ -210,19 +210,3 @@ export interface ActivesDocs {
     optionList: NestedOption[]
   }
 }
-
-// export interface DocsText {
-//   foto: string
-//   id: string
-//   pis: string
-//   residencia: string
-//   uniao: string
-//   casamento: string
-//   nascimento: string
-//   contracheque: string
-//   posse: string
-//   veracidade: string
-//   estadoc: string
-//   depid: string
-//   decres: string
-// }
